@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.expense-c{
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(185, 185, 128);
+    margin-left: 400px;
+    margin-right: 400px;
+}
+#del{
+    background-color: red;
+    border-radius: 3px;
+    border: none;
+    color: white;
+}
